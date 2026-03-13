@@ -9,7 +9,7 @@
 
     p Bernal (2000) describe las siguientes técnicas de evaluación de la información que pueden efectuarse:
 
-    AcordionA(tipo="b" clase-tarjeta="tarjeta bgfondo")
+    AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-2")
       .row.justify-content-center(titulo="Análisis de Pareto")
         .col-md-12.mb-4.mb-md-0.p-4.col-sm-12.col-lg-7
           p Es una técnica para analizar orígenes de problemas y las procedencias de sus causas, de igual forma, es una técnica que permite catalogar gráficamente la información de mayor a menor preeminencia, con el fundamento de identificar los problemas más trascendentales en los que se debe enfocar y solucionar, tiene como procedimiento generalizado:
@@ -34,7 +34,7 @@
               h5 Figura 7. 
               | Análisis de Pareto
           figure
-            img(src='@/assets/curso/temas/tema5/img01.png', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos')
+            img(src='@/assets/curso/temas/tema5/img01.svg', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos')
             figcaption Nota. Adaptada de Jose Marcondes (2020)
 
       .row.justify-content-center.p-4(titulo="Diagrama de causa efecto")
@@ -45,7 +45,7 @@
               h5 Figura 8. 
               | Diagrama de causa y efecto
           figure
-            img(src='@/assets/curso/temas/tema5/img02.png', alt='La figura presenta un gráfico tipo espina de pescado.')
+            img(src='@/assets/curso/temas/tema5/img02.svg', alt='La figura presenta un gráfico tipo espina de pescado.')
             figcaption Nota. Adaptada de IBM (2007)
       
       .row.justify-content-center(titulo="Gráficas de control")
@@ -66,7 +66,7 @@
               h5 Figura 9. 
               | Gráfico de control X-R.
           figure
-            img(src='@/assets/curso/temas/tema5/figura9.png', alt='La grafica presenta  puntos situados en un zigzag irregural unidos por una línea azul.')
+            img(src='@/assets/curso/temas/tema5/figura9.svg', alt='La grafica presenta  puntos situados en un zigzag irregural unidos por una línea azul.')
             figcaption Nota. Adaptada de Grupo 10 (2015)
        
       .row.justify-content-center.p-4(titulo="Distribución de frecuencias y representaciones gráficas")
@@ -78,7 +78,7 @@
               h5 Figura 10. 
               | Histograma
           figure
-            img(src='@/assets/curso/temas/tema5/figura10.png', alt='La grafica presenta varias barras de color azul.')
+            img(src='@/assets/curso/temas/tema5/figura10.svg', alt='La grafica presenta varias barras de color azul.')
             figcaption Nota. Adaptada de Marta (2019)
 
         .col-lg-5.blanco.p-4.col-md-9
@@ -112,7 +112,7 @@
               h5 Figura 12. 
               | Tendencia central 
           figure
-            img(src='@/assets/curso/temas/tema5/figura12.png', alt='La figura presenta tres gráficas tipo montaña: asimétrica hacia la izquierda, simétrica y asimétrica hacia la derecha; en las tres se señala la media, la mediana y la moda.')
+            img(src='@/assets/curso/temas/tema5/figura12.svg', alt='La figura presenta tres gráficas tipo montaña: asimétrica hacia la izquierda, simétrica y asimétrica hacia la derecha; en las tres se señala la media, la mediana y la moda.')
             figcaption Nota. Adaptada de estudiar física.wordpress (2009)
 
       .row.justify-content-center(titulo="Medidas de dispersión").p-4
