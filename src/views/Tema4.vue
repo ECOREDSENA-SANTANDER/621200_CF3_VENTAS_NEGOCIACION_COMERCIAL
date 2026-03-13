@@ -50,11 +50,10 @@
       p.mb-5 Son varios los tipos de análisis de datos que se pueden realizar dependiendo de la información que se dispone, a continuación se destacan los más importantes.
       
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
-        .col-lg-5.col-md-12.col-12.px-3
+        .col-lg-8.col-md-12.col-12.px-3
           .titulo-sexto.color-secundario
             h5 Figura 2. 
             | Tipos de análisis de datos
-        .col-lg-12.col-md-12.col-12.px-3
           img(src='@/assets/curso/temas/tema4/img03.svg', alt='La figura presenta un línea recta, y dos flechas simulando que empujan hacia abajo y hacia arriba, al lado de la flecha hacia abajo se lee análisis cualitativo, y al lado de la flecha hacia arriba se lee análisis cuantitativo.')
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -80,67 +79,68 @@
 
       p Las técnicas de análisis de datos se definen como el proceso de explorar los datos metódicamente con el objetivo de destacar aquella información que sea más útil, con el auge y la aplicación de las tecnologías basadas en las industrias 4.0 los análisis de datos se hacen cada vez más precisos, disminuyendo la incertidumbre y el riesgo de errores.
 
+      .bg-full-width.bg-color-1.mb-5
+        .p-full-width
+          .row.mb-0
+            .col-lg-12.col-12
+              .tarjeta.tarjeta--gris.p-4.mb-0
+                LineaTiempoC.color-acento-contenido(text-small)
+                  .row.justify-content-center(titulo="Minería de datos")
+                    .col-md-11.mb-4.mb-md-0
+                      h4 Minería de datos
+                      p Minería de datos es definida como el proceso de encontrar singularidades, elementos comunes y correspondencias en grandes agregados de datos para augurar conclusiones, empleando una amplia variedad de técnicas.  En conformidad con la página web de SAS la minería de datos le permite:
+                      ul.lista-ul
+                        li.d-flex.mb-2
+                          i.fas.fa-check-circle
+                          | Filtrar todo el ruido caótico y repetitivo en sus datos. (datos que se repiten)
+                        li.d-flex.mb-2
+                          i.fas.fa-check-circle
+                          | Entender qué es relevante y luego hacer un buen uso de esa información para evaluar resultados probables. (datos significativos).
+                        li.d-flex.mb-2
+                          i.fas.fa-check-circle
+                          | Acelerar el ritmo de la toma de decisiones informadas.
+                      p La minería de datos tiene seis fases: comprensión del negocio, comprensión de los datos, preparación de datos, modelado, evaluación y despliegue.
+                    .col-lg-9.blanco.p-4
+                      .titulo-sexto.color-secundario
+                        h5 Figura 4. 
+                        | Ámbito, Objetivos de negocio
+                      img(src='@/assets/curso/temas/tema4/img06.svg', alt='La figura presenta un diagrama de flujo con figuras geométricas que representan el proceso del análisis de datos: datos iniciales, almacén de datos, vista minable, patrones , conocimiento y decisiones. Adicional a estos conceptos, se encuentran mencionados en un flujo contrario: revisión, despliegue, evaluación, modelado, preparación de datos, integración y recopilación.')
+                      figcaption Nota. Adaptada de conceptos (2018)
 
-      .row.mb-2
-        .col-lg-12.col-12
-          .tarjeta.tarjeta--gris.p-4.mb-5
-            LineaTiempoC.color-acento-contenido(text-small)
-              .row.justify-content-center(titulo="Minería de datos")
-                .col-md-11.mb-4.mb-md-0
-                  h4 Minería de datos
-                  p Minería de datos es definida como el proceso de encontrar singularidades, elementos comunes y correspondencias en grandes agregados de datos para augurar conclusiones, empleando una amplia variedad de técnicas.  En conformidad con la página web de SAS la minería de datos le permite:
-                  ul.lista-ul
-                    li.d-flex.mb-2
-                      i.fas.fa-check-circle
-                      | Filtrar todo el ruido caótico y repetitivo en sus datos. (datos que se repiten)
-                    li.d-flex.mb-2
-                      i.fas.fa-check-circle
-                      | Entender qué es relevante y luego hacer un buen uso de esa información para evaluar resultados probables. (datos significativos).
-                    li.d-flex.mb-2
-                      i.fas.fa-check-circle
-                      | Acelerar el ritmo de la toma de decisiones informadas.
-                  p La minería de datos tiene seis fases: comprensión del negocio, comprensión de los datos, preparación de datos, modelado, evaluación y despliegue.
-                .col-lg-9.blanco.p-4
-                  .titulo-sexto.color-secundario
-                    h5 Figura 4. 
-                    | Ámbito, Objetivos de negocio
-                  img(src='@/assets/curso/temas/tema4/img06.svg', alt='La figura presenta un diagrama de flujo con figuras geométricas que representan el proceso del análisis de datos: datos iniciales, almacén de datos, vista minable, patrones , conocimiento y decisiones. Adicional a estos conceptos, se encuentran mencionados en un flujo contrario: revisión, despliegue, evaluación, modelado, preparación de datos, integración y recopilación.')
-                  figcaption Nota. Adaptada de conceptos (2018)
 
+                  .row.justify-content-center(titulo="<i>Business intelligence</i>")
+                    .col-md-11.mb-4.mb-md-0.col-lg-10
+                        h4 #[em Business intelligence]
+                        p Se conceptúa al conjunto de metodologías, aplicaciones, prácticas y capacidades enfocadas a la creación y administración de información que permite tomar mejores decisiones a los usuarios de una organización (Conesa y Curto, 2010, p18). Estas acciones pueden ser procesos, técnicas, metodologías, herramientas y tecnologías que generan información para que sirva de base para la toma de decisiones. En otras palabras la inteligencia de negocios o #[em business intelligence] (BI), mezcla lo más profundo del análisis de negocios con el trabajo del #[em big data] y la minería de datos, para obtener la información más expedita que  permita la mejor decisión posible en los escenarios posibles, minimizando siempre de esta forma los riesgos posibles.
+                    .col-lg-10.blanco.p-4.col-sm-10
+                        .titulo-sexto.color-secundario
+                          h5 Figura 5.
+                          |  Proceso #[em business intelligence] 
+                        img(src='@/assets/curso/temas/tema4/img07.svg', alt='En el diagrama se presenta un flujo con los siguientes conceptos: Fuentes de datos, extracción, transformación y carga, almacén de datos y explotación de datos. Usuario final')
+          
 
-              .row.justify-content-center(titulo="<i>Business intelligence</i>")
-                .col-md-11.mb-4.mb-md-0.col-lg-10
-                    h4 #[em Business intelligence]
-                    p Se conceptúa al conjunto de metodologías, aplicaciones, prácticas y capacidades enfocadas a la creación y administración de información que permite tomar mejores decisiones a los usuarios de una organización (Conesa y Curto, 2010, p18). Estas acciones pueden ser procesos, técnicas, metodologías, herramientas y tecnologías que generan información para que sirva de base para la toma de decisiones. En otras palabras la inteligencia de negocios o #[em business intelligence] (BI), mezcla lo más profundo del análisis de negocios con el trabajo del #[em big data] y la minería de datos, para obtener la información más expedita que  permita la mejor decisión posible en los escenarios posibles, minimizando siempre de esta forma los riesgos posibles.
-                .col-lg-10.blanco.p-4.col-sm-10
-                    .titulo-sexto.color-secundario
-                      h5 Figura 5.
-                      |  Proceso #[em business intelligence] 
-                    img(src='@/assets/curso/temas/tema4/img07.svg', alt='En el diagrama se presenta un flujo con los siguientes conceptos: Fuentes de datos, extracción, transformación y carga, almacén de datos y explotación de datos. Usuario final')
-      
-
-              .row.justify-content-center(titulo="Aprendizaje  automático")
-                .col-md-11.mb-4.mb-md-0.col-lg-6
-                  h4 Aprendizaje  automático
-                  p Es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el #[em Machine Learning] (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).
-                .col-lg-5.col-sm-9.blanco.p-4
-                  img(src='@/assets/curso/temas/tema4/img08.png', alt='')
-                 
-              
-              
-              .row.justify-content-center(titulo="Análisis del <i>Big Data</i>")
-                .col-md-11.mb-4.mb-md-0.col-lg-6
-                  .py-2
-                  h4 Análisis del #[em Big Data]
-                  .py-2
-                  p El análisis de ‘grandes datos’ es el proceso de inspeccionar grandes cantidades de datos de una diversidad de tipos (#[em big data]) para descubrir patrones escondidos u ocultos, correspondencias inéditas u otra información útil, para generar información que posteriormente se convierta en conocimiento y aprendizaje en la toma asertiva de decisiones. Según Rodal Montero (2020) define la “analítica de #[em big data]  como  la recolección, gestión y análisis a alta velocidad de grandes, dinámicos y heterogéneos volúmenes de datos generados por usuarios y máquinas, que debido a su tamaño y complejidad superan las capacidades de procesamiento de las herramientas de #[em software] tradicionales, por lo que requieren técnicas innovadoras para su procesamiento y tratamiento”. (p 65).
-                  p Las fases del proceso de la analítica de grandes datos es la recolección de grandes magnitudes de datos, posteriormente existe todo un proceso de limpieza de esos datos, evitando los valores que constituyan ruido.
-                .col-lg-5.col-sm-9.blanco.p-4
-                  .titulo-sexto.color-secundario
-                    h5 Figura 6.
-                    | #[em Big Data] 
-                  img.mb-2(src='@/assets/curso/temas/tema4/img09.png', alt='La figura presenta las palabras <i>BIG DATA</i> en el medio de un circulo, sobre el cual se mencionan: recolección de datos, limpieza de datos, analisis de datos e interpretación de datos.')
-                  figcaption Nota. Adaptada de Raul Pulido (2018)
+                  .row.justify-content-center(titulo="Aprendizaje  automático")
+                    .col-md-11.mb-4.mb-md-0.col-lg-6
+                      h4 Aprendizaje  automático
+                      p Es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el #[em Machine Learning] (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).
+                    .col-lg-5.col-sm-9.blanco.p-4
+                      img(src='@/assets/curso/temas/tema4/img08.png', alt='')
+                    
+                  
+                  
+                  .row.justify-content-center(titulo="Análisis del <i>Big Data</i>")
+                    .col-md-11.mb-4.mb-md-0.col-lg-6
+                      .py-2
+                      h4 Análisis del #[em Big Data]
+                      .py-2
+                      p El análisis de ‘grandes datos’ es el proceso de inspeccionar grandes cantidades de datos de una diversidad de tipos (#[em big data]) para descubrir patrones escondidos u ocultos, correspondencias inéditas u otra información útil, para generar información que posteriormente se convierta en conocimiento y aprendizaje en la toma asertiva de decisiones. Según Rodal Montero (2020) define la “analítica de #[em big data]  como  la recolección, gestión y análisis a alta velocidad de grandes, dinámicos y heterogéneos volúmenes de datos generados por usuarios y máquinas, que debido a su tamaño y complejidad superan las capacidades de procesamiento de las herramientas de #[em software] tradicionales, por lo que requieren técnicas innovadoras para su procesamiento y tratamiento”. (p 65).
+                      p Las fases del proceso de la analítica de grandes datos es la recolección de grandes magnitudes de datos, posteriormente existe todo un proceso de limpieza de esos datos, evitando los valores que constituyan ruido.
+                    .col-lg-5.col-sm-9.blanco.p-4
+                      .titulo-sexto.color-secundario
+                        h5 Figura 6.
+                        | #[em Big Data] 
+                      img.mb-2(src='@/assets/curso/temas/tema4/img09.svg', alt='La figura presenta las palabras <i>BIG DATA</i> en el medio de un circulo, sobre el cual se mencionan: recolección de datos, limpieza de datos, analisis de datos e interpretación de datos.')
+                      figcaption Nota. Adaptada de Raul Pulido (2018)
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
         .col-lg-4.col-8.my-2.col-sm-6
