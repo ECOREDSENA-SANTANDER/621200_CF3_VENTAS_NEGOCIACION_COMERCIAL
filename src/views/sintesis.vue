@@ -2,17 +2,19 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. 
-    
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p El manejo de la información es un tema fundamental para un asesor comercial ya que dentro de sus competencias debe dominar temas como el procesamiento de la información, el análisis de datos y la realización de informes, en el siguiente diagrama se relacionan los conceptos y temas más significativos estudiados en este componente:
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.svg", alt="En el diagrama se presentan los temas y conceptos más importantes tratados dentro del componente")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/bullets/icono-pdf.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Síntesis
 

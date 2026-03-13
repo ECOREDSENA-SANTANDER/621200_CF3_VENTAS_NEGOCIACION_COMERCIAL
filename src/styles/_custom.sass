@@ -1,30 +1,252 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 20%
-    right: 10%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+.titulo-principal__numero 
+  background-color: $color-primario
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
-  100%
-    transform: translateY(0px)
-  
 
-.banner-principal .tarjeta
-  background-position: left 50% !important
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
+
+/*********************************************************/
+/*************** REFACTORIZACIÓN ***********************/
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: $color-sistema-texto
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important   
-.banner-interno__titulo__icono i
+.banner-principal__row .banner-principal__img
+  max-width: 480px !important  
+.banner-principal__img img
+  width: 75%
+.titulo-principal.color-acento-contenido .titulo-principal__numero 
+    background-color: $color-primario !important
+figcaption, table caption
+  font-weight: normal 
+
+
+
+
+.bg1
+  background-color: #B5C7D1
+
+.lista-ol--cuadro__vineta 
+    color: $color-sistema-texto
+    font-weight: bold
+.titulo-sexto.color-secundario 
+    border-left-color: $color-secundario
+
+.titulo-segundo:after 
+    content: ''
+    display: block
+    height: 4.5px
+    width: 140px
+    border-left: solid 50px
+    border-left-color: $color-secundario
+    background-color: #e8e8e8
+
+.fa-check-circle:before, .fa-circle-check:before 
+    content: "\f058"
+    color: #445130
+
+.titulo-icono
+  background-color: #A6CDEC
+  width: fit-content
+  position: relative;
+  left: 15px;
+  &-text
+    margin-right: 10px
+    margin-left: 0px;
+    color: $color-sistema-texto !important
+  &-img
+    padding: 0px
+
+
+    &:before
+      position: relative
+      border-radius: 60px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px
+
+.bloque-texto-b i 
+    font-size: 2.5em
+    color: $color-primario
+.p-full-width
+  padding: 3rem 2.5rem!important;
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+.bg-fondo
+  &-1
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center
+.bg-color
+  &-1
+    background-color: $color-primario
+  &-2
+    background-color: #E4F0F9
+  &-3
+    background-color: $color-acento-botones
+  &-4
+    background-color: #F1F1F1
+  &-5
+    background-color: $color-acento-contenido
+  &-6
+    background-color: #0A4666
+  &-7
+    background-color: #A6CDEC
+  &-8
+    background-color: $color-secundario
+  &-9
+    box-shadow: 0px 0px 2px 2px rgba(0,0,0,.3)
+    border-radius: 10px
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+    border: 0 !important
+    background-color: $color-acento-botones !important
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container:before,
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot:after,
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:before, .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:after
+    background-color: $color-acento-botones !important
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot,
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot
+  border-color: $color-acento-botones !important
+
+.bg3
+  background-color: #3A4852
+  border-radius: 10px
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.mbt
+  display: flex
+
+.pasos-a.color-acento-contenido .pasos-a__circle div 
+    color: #fff
+.pasos-a.color-primario .pasos-a__circle
+  background-color: #445130 !important
+.pasos-a.color-primario .pasos-a__numero::after
+    border-left-color:#445130 !important
+.pasos-a.color-primario .pasos-a__linea .hor-line
+    border-top-color: #445130 !important
+.pasos-a.color-primario .pasos-a__linea__esquina__linea
+  border-color: #445130 !important
+
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+.acordion .tarjeta--azul
+  background-color: $color-primario
+
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #E4F0F9
+  h3
+    color: black
+.acordion__titulo
+  h3
+    color: #fff
+/*********************************************************/
+
+.fondo-lila
+  background-color: #E2D8F4
+  border-radius: 20px
+.fondo-morado
+  background-color: #FBEEFE
+.fondo-azul 
+  background-color: #EEF5FC
+.titulo-morado
+  background-color: #BE79CA
+.tarjeta-avatar 
+  height: 100%
+  position: relative
+  padding-top: 0
+.img-infografica.color-primario .img-infografica__item__dot:before, .img-infografica.color-primario .img-infografica__item__dot:after, .img-infografica.color-primario .img-infografica-b__item__dot:before, .img-infografica.color-primario .img-infografica-b__item__dot:after, .img-infografica-b.color-primario .img-infografica__item__dot:before, .img-infografica-b.color-primario .img-infografica__item__dot:after, .img-infografica-b.color-primario .img-infografica-b__item__dot:before, .img-infografica-b.color-primario .img-infografica-b__item__dot:after
+  background-color: #f9ce24
+
+.w-card-icon
+  width: min-content
+  z-index: 1 
+.w-card-text
+  position: relative
+  padding-left: 50px
+  padding-right: 50px
+  left: -30px
+  top: 8px
+.subrayado
+  border-bottom: solid !important
+  width: 30% !important
+.img-t
+  width: auto
+  height: auto
+.img-a
+  display: block
+  margin: auto
+.cajon.color-acento-contenido 
+   background-color: #E2D8F4 !important
+
+.caja1
+  background-color: $color-primario
+  border-radius: 15px
+.titulo-principal.color-acento-contenido .titulo-principal__numero 
+  background-color: $color-primario
+.titulo-principal.color-acento-contenido .titulo-principal__numero span 
+  color: #fff
+.titulo-principal__numero span
+  color: #fff
+
+.py-3.py-md-4
+  padding-top: 1.5rem !important
+  padding-bottom: 1.5rem !important
+  background-color: #FBEEFE
+
+.blanco 
+  background-color: #fff
+  border-radius: 20px
+
+.tarjeta--gris
+  background-image: url('../assets/curso/temas/tema4/banner.png')
+  background-size: 100% 100%
+  background-position: center 
+.linea-tiempo-c__header__btn--right
+  background-color: #f9ce24
+.linea-tiempo-c__header__btn--left
+  background-color: #f9ce24
+
+.bgfondo
+  background-image: url('../assets/curso/temas/tema5/banner.png')
+  background-size: 100% 100%
+  background-position: center 
+
+.bgfondo1
+  background-image: url('../assets/curso/temas/tema3/banner.png')
+  background-size: 100% 100%
+  background-position: center 
+
+.bgfondo2
+  background-image: url('../assets/curso/temas/tema2/fondo.png')
+  background-size: 100% 100%
+  background-position: center 
+.bgfondo3
+  background-image: url('../assets/curso/temas/tema2/fondo2.png')
+  background-size: 100% 100%
+  background-position: center 
+.tabs-c__header 
+  margin-bottom: 0px
+
+.fa-check-circle:before, .fa-circle-check:before 
+  content: "\f058"
   color: $color-primario
-figcaption
-  font-weight: normal
- 
+.bgfondo4
+  background-image: url('../assets/curso/temas/tema3/banner.png')
+  background-size: 100% 100%
+  background-position: center 
+
+.acordion__accion__btn--b
+  border: 1px solid #FFD947
+  background-color: #FFD947
