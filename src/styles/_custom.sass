@@ -241,8 +241,45 @@ figcaption, table caption
   background-image: url('../assets/curso/temas/tema2/fondo2.png')
   background-size: 100% 100%
   background-position: center 
+
+.tabs-c__tab 
+    background-color: #0A4666
+    border-bottom: 6px solid#0A4666
+    color: #fff 
+    line-height: 1.2
+    text-align: center
+    display: flex
+    align-items: center
+    justify-content: center
+    position: relative
+
+.tabs-c.color-acento-botones .tabs-c__tab--active
+    color: $color-sistema-texto !important
+    background-color: #fff !important
+.tabs-c.color-primario .tabs-c__tab--active 
+    color: $color-sistema-texto !important
+    font-weight: 900
+
+.tabs-c.color-primario .tabs-c__tab--active 
+    border-bottom-color: #445130 !important
+
+.tabs-c__tab--active 
+    border-bottom: 6px solid !important
+
+.tabs-c.color-primario .tabs-c__tab--active:before 
+    border-top-color: #445130
+
+.tabs-c__tab--active:before 
+    width: 0
+    height: 0
+    border-left: 14px solid transparent
+    border-right: 14px solid transparent
+    border-top: 13px solid
+    left: 50%
+    top: calc(100% + 6px)
+
 .tabs-c__header 
-  margin-bottom: 0px
+    margin-bottom: -7px
 
 .fa-check-circle:before
   content: "\f058"
