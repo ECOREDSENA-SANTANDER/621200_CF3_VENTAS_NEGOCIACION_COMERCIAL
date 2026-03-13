@@ -27,7 +27,7 @@
     p Por tanto, la calidad de la información que se transmite en los informes debe ser tal que facilite la comprensión del texto, que transmita el mensaje apropiado y que facilite el flujo de trabajo en los procesos de la empresa.
 
     TabsC.color-acento-botones(data-aos="zoom-in-left")
-      .py-3.py-md-5(titulo="Según el contenido").bgfondo4
+      .py-3.py-md-5(titulo="Según el contenido").bgfondo2
         .row.justify-content-center.align-items-center.p-4
           .col-lg-6.mb-4.mb-md-0.col-md-12
             h4 Según el contenido
@@ -47,7 +47,7 @@
             figure
               img.mb-2(src='@/assets/curso/temas/tema6/img02.png', alt='')      
           
-      .py-3.py-md-5(titulo="Según la estructura").bgfondo4
+      .py-3.py-md-5(titulo="Según la estructura").bgfondo2
         .row.justify-content-center.align-items-center.p-4(data-aos="zoom-in-left")
           .col-lg-6.mb-4.mb-md-0.col-md-12
             h4 Según la estructura
