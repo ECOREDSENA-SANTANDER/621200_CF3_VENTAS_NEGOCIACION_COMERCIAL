@@ -77,6 +77,7 @@ figcaption, table caption
   margin-inline: -3.3rem
 .bg-fondo
   &-1
+    background-image: url('../assets/curso/temas/bg/2.svg')
     background-size: cover
     background-repeat: no-repeat
     background-position: center
@@ -151,23 +152,27 @@ figcaption, table caption
 .acordion__titulo
   h3
     color: #fff
+.br-30
+  border-radius: 30px
 /*********************************************************/
 
 .fondo-lila
   background-color: #E2D8F4
   border-radius: 20px
 .fondo-morado
-  background-color: #FBEEFE
+  background-color: #E5EFD6
 .fondo-azul 
   background-color: #EEF5FC
 .titulo-morado
-  background-color: #BE79CA
+  background-color: #AACA79
+.titulo-primario
+  background-color: $color-acento-contenido
 .tarjeta-avatar 
   height: 100%
   position: relative
   padding-top: 0
 .img-infografica.color-primario .img-infografica__item__dot:before, .img-infografica.color-primario .img-infografica__item__dot:after, .img-infografica.color-primario .img-infografica-b__item__dot:before, .img-infografica.color-primario .img-infografica-b__item__dot:after, .img-infografica-b.color-primario .img-infografica__item__dot:before, .img-infografica-b.color-primario .img-infografica__item__dot:after, .img-infografica-b.color-primario .img-infografica-b__item__dot:before, .img-infografica-b.color-primario .img-infografica-b__item__dot:after
-  background-color: #f9ce24
+  background-color: $color-acento-botones
 
 .w-card-icon
   width: min-content
@@ -179,7 +184,7 @@ figcaption, table caption
   left: -30px
   top: 8px
 .subrayado
-  border-bottom: solid !important
+  border-bottom: solid 4px $color-secundario !important
   width: 30% !important
 .img-t
   width: auto
@@ -214,9 +219,9 @@ figcaption, table caption
   background-size: 100% 100%
   background-position: center 
 .linea-tiempo-c__header__btn--right
-  background-color: #f9ce24
+  background-color: $color-acento-botones
 .linea-tiempo-c__header__btn--left
-  background-color: #f9ce24
+  background-color: $color-acento-botones
 
 .bgfondo
   background-image: url('../assets/curso/temas/tema5/banner.png')
@@ -239,9 +244,12 @@ figcaption, table caption
 .tabs-c__header 
   margin-bottom: 0px
 
-.fa-check-circle:before, .fa-circle-check:before 
+.fa-check-circle:before
   content: "\f058"
-  color: $color-primario
+  color: #445130
+.fa-check-circle.color-secundario:before 
+  content: "\f058"
+  color: $color-secundario
 .bgfondo4
   background-image: url('../assets/curso/temas/tema3/banner.png')
   background-size: 100% 100%

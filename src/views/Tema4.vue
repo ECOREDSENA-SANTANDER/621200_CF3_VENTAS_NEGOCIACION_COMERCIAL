@@ -17,14 +17,14 @@
             p.mb-0 El análisis de datos es el proceso de examinar conjuntos de datos para encontrar tendencias y sacar conclusiones sobre la información que contienen; en la investigación cuantitativa apela a técnicas de cálculo de variables y  a la estadística como técnica específica en la ordenación y la exégesis de datos cuantitativos o cualitativos.
       
       Separador 
-      #t_4_1.titulo-segundo.mb-4.color-primario
+      #t_4_1.titulo-segundo.mb-4.color-secundario
         h2 4.1 Antecedentes
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-4.col-8.col-sm-6
           img.mb-4(src='@/assets/curso/temas/tema4/img02.png', alt='')
         .col-lg-8
-          .cajon.color-acento-contenido.p-4.mb-4
+          .cajon.color-secundario.p-4.mb-4
             p Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La página web de Quality Leadership University (QLE) indica que tradicionalmente en el análisis de antecedentes se verifica:
           ul.lista-ul
             li.d-flex.mb-2
@@ -44,7 +44,7 @@
               | Metodología utilizada. 
       
       Separador 
-      #t_4_1.titulo-segundo.mb-4.color-primario
+      #t_4_1.titulo-segundo.mb-4.color-secundario
         h2 4.2 Tipos de análisis 
 
       p.mb-5 Son varios los tipos de análisis de datos que se pueden realizar dependiendo de la información que se dispone, a continuación se destacan los más importantes.
@@ -60,7 +60,7 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-8
           p De acuerdo con el Blog Questionpro (2021): también se recurre a otros tipos de análisis entre los cuales está el análisis descriptivo, que como su nombre lo indica, consiste en describir las tendencias claves en los datos existentes y observar las situaciones que conduzcan a nuevos hechos, está basada en la estadística descriptiva que conlleva a las medidas de tendencia central (media, mediana y moda) esta información es cotejada con las medidas de dispersión (desviación estándar y error estándar) para su validación. 
-          .cajon.color-acento-contenido.p-4.mb-4
+          .cajon.color-secundario.p-4.mb-4
             p Por su parte, el análisis predictivo se conceptúa por parte del mismo blog Questionpro (2021) como una forma de análisis estadístico que se encomienda de conseguir información nueva o histórica y utilizarla para pronosticar patrones de conducta.
           p Por último, está el análisis prescriptivo se encarga de encontrar una solución entre una gama de variantes con el objetivo de optimizar los recursos y aumentar la eficiencia operativa, es decir, ayuda a entender qué tenemos que hacer para obtener los resultados que queramos en el futuro.
         .col-lg-4.col-sm-6.col-8
@@ -75,7 +75,7 @@
             img(src='@/assets/curso/temas/tema4/img05.svg', alt='La figura presenta tres iconos donde se lee respectivamente lo siguiente: Descriptiva(bombillo): describir y comprender lo que está pasando. <i>Big Data</i>. Predictiva(lupa): predecir lo que puede pasar. Pronostico y simulación. Prescriptiva(grafica de barras): Lo que se debe hacer en el futuro. Técnicas de optimización.')
             figcaption Nota: Adaptada de David Higuita (2016)
       Separador 
-      #t_4_3.titulo-segundo.mb-4.color-primario
+      #t_4_3.titulo-segundo.mb-4.color-secundario
         h2 4.3 Técnicas de análisis de datos  
 
       p Las técnicas de análisis de datos se definen como el proceso de explorar los datos metódicamente con el objetivo de destacar aquella información que sea más útil, con el auge y la aplicación de las tecnologías basadas en las industrias 4.0 los análisis de datos se hacen cada vez más precisos, disminuyendo la incertidumbre y el riesgo de errores.
@@ -147,7 +147,7 @@
           img.mb-2(src='@/assets/curso/temas/tema4/img10.png', alt='')
         .col-lg-8
           p Para Big Data Internacional Campus (2020) #[em Data mining] es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El #[em data mining] reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
-          .cajon.color-acento-contenido.p-4.mb-4
+          .cajon.color-secundario.p-4.mb-4
             p La principal diferencia entre #[em big data] y #[em data mining] (grandes datos y minería de datos) se halla en que #[em data mining] se refiere a operaciones que implican búsquedas sofisticadas para la obtención de datos específicos y concretos dentro del gran mundo de los datos (#[em big data]) Ejemplificando la #[em data mining] es observar, analizar y estudiar los datos con  microscopios, mientras que el #[em big data]  utilizará telescopios para observar, analizar y estudiar los datos
       
 

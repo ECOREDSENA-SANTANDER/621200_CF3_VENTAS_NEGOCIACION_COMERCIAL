@@ -9,7 +9,7 @@
 
     p.mb-5  Los informes y documentos son parte fundamental del proceso que se llevará a cabo.
     
-    #t_6_1.titulo-segundo.mb-4.color-primario
+    #t_6_1.titulo-segundo.mb-4.color-secundario
       h2 6.1 Informes
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -19,7 +19,7 @@
         p Es un escrito que tiene como resultado anunciar y dar balance de una situación desde diferentes perspectivas, es decir, de algo sobre lo que se está efectuando una investigación exhaustiva; entre las principales características que debe tener el informe, la primera es la claridad en el lenguaje para que tenga comprensión por parte del lector, la segunda característica del informe escrito es la objetividad en reflejar los hechos basados en información comprobable, la tercera característica es la estructuración respondiendo a criterios narrativos y presentar una estructura mínima en cuanto introducción, desarrollo y conclusiones.
     
     Separador 
-    #t_6_2.titulo-segundo.mb-4.color-primario
+    #t_6_2.titulo-segundo.mb-4.color-secundario
       h2 6.2 Tipos de informes
 
 

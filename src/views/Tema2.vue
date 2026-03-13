@@ -17,7 +17,7 @@
             p.mb-0 Según Espinoza (2018), las variables son elementos que se ponen en dependencia a un referente teórico y según lo que se puede pronosticar en la población de estudio, por tanto, la variable es una propiedad que puede cambiar de valor en cada situación o de un individuo a otro y cuyo cambio o alteración es capaz de medirse en torno a una escala.
     
       Separador 
-      #t_2_1.titulo-segundo.mb-4.color-primario
+      #t_2_1.titulo-segundo.mb-4.color-secundario
         h2 2.1 Tipos de variables en el análisis de datos
 
       p Existen varios tipos de variables y cada una de ellas representa una característica, número o cantidad que puede ser medida o contada.
@@ -71,7 +71,7 @@
 
 
       Separador 
-      #t_2_2.titulo-segundo.mb-4.color-primario
+      #t_2_2.titulo-segundo.mb-4.color-secundario
         h2 2.2 Clasificación de las variables
 
       p.mb-5 Se pueden identificar 2 tipos de variables que participan en el manejo de la información de un proceso investigativo y pueden señalar relaciones comportamentales  al medir determinado número de sucesos:
