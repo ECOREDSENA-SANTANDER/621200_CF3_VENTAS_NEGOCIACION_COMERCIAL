@@ -22,17 +22,16 @@
           li
             i.fas.fa-check-circle
             | Identificar las técnicas de recolección de la información debidamente validadas.
-        p.mb-5 A continuación se presenta una cadena de pasos que pueden emplearse para la recaudación de los datos necesarios para responder a los objetivos:
-      
+        p.mb-5 A continuación, se presenta una cadena de pasos que pueden emplearse para la recolección de datos necesarios para responder a los objetivos:≈
 
     TabsC.color-acento-botones(data-aos="zoom-in-left")
-      .py-3.py-md-5(titulo="Recogida de los datos").bgfondo2
+      .py-3.py-md-5(titulo="Recolección de datos").bgfondo2
         .row.justify-content-center.align-items-center.p-4
           .col-md-4.col-8.my-2.col-lg-4
             figure
               img.mb-2(src='@/assets/curso/temas/tema3/img01.png', alt='')
           .col-md-12.mb-4.mb-md-0.col-lg-6
-            h4 Recogida de los datos
+            h4 Recolección de datos
             p Esta parte del procesamiento de la información requiere previamente haber perfilado los instrumentos de recolección que hayan sido validados y que generen confiabilidad. La recolección de datos se realiza siguiendo tres (3) pasos:
             ul.lista-ul
               li.d-flex.mb-2

@@ -16,15 +16,15 @@
       .col-lg-4.col-8.col-md-6
         img.mb-4(src='@/assets/curso/temas/tema6/img01.png', alt='')
       .col-lg-8
-        p Es un escrito que tiene como resultado anunciar y dar balance de una situación desde diferentes perspectivas, es decir, de algo sobre lo que se está efectuando una investigación exhaustiva; entre las principales características que debe tener el informe, la primera es la claridad en el lenguaje para que tenga comprensión por parte del lector, la segunda característica del informe escrito es la objetividad en reflejar los hechos basados en información comprobable, la tercera característica es la estructuración respondiendo a criterios narrativos y presentar una estructura mínima en cuanto introducción, desarrollo y conclusiones.
+        p Es un escrito que tiene como finalidad anunciar y presentar el balance de una situación desde diferentes perspectivas; es decir, sobre aquello que se está investigando de manera exhaustiva. Entre las principales características que debe tener un informe se encuentran las siguientes: la primera es la claridad en el lenguaje para facilitar la comprensión por parte del lector; la segunda es la objetividad al reflejar hechos basados en información comprobable; y la tercera es una adecuada estructuración, con una organización mínima que incluya introducción, desarrollo y conclusiones. 
     
     Separador 
     #t_6_2.titulo-segundo.mb-4.color-secundario
       h2 6.2 Tipos de informes
 
 
-    p.mb-3 En la contemporaneidad en la cual recurre el mundo moderno,  para cualquier administrativo o comercial de una empresa debe ser importante saber dirigir, saber presidir una reunión, dictar conferencias, también lo es escribir informes, luego entonces, es imprescindible desarrollar estas habilidades de comunicación escrita en este tipo de personal. 
-    p Por tanto, la calidad de la información que se transmite en los informes debe ser tal que facilite la comprensión del texto, que transmita el mensaje apropiado y que facilite el flujo de trabajo en los procesos de la empresa.
+    p.mb-3 En la actualidad, para cualquier profesional del ámbito administrativo o comercial es importante saber dirigir, presidir reuniones, dictar conferencias y elaborar informes; por ello, es imprescindible desarrollar estas habilidades de comunicación escrita. 
+    p.mb-0 Por tanto, la calidad de la información que se transmite en los informes debe facilitar la comprensión del texto, comunicar el mensaje apropiado y favorecer el flujo de trabajo dentro de la organización. 
 
     TabsC.color-acento-botones(data-aos="zoom-in-left")
       .py-3.py-md-5(titulo="Según el contenido").bgfondo2
@@ -51,7 +51,7 @@
         .row.justify-content-center.align-items-center.p-4(data-aos="zoom-in-left")
           .col-lg-6.mb-4.mb-md-0.col-md-12
             h4 Según la estructura
-            p Se destacan con preeminencia 3 tipos de informes
+            p Los principales tipos de informes son los siguientes: 
         
             ul.lista-ul
               li.d-flex.mb-2

@@ -49,7 +49,7 @@
       .col-lg-8
         p.mb-4 Es importante estar debidamente informado sobre un propósito, porque no solamente permite desenrollar un punto de vista o postura respecto del mismo, sino también porque permite adelantarse  a un hecho o estar prevenidos sobre determinada situación.
         .cajon.color-secundario.p-4.mb-4
-          p Según Florencia (2013) en sus blogs expresa “Gracias a la información se puede conceptuar, significar o encontrarle sentido a las cosas que rodean o acontecen en la sociedad, para luego de concebir el conocimiento debido, tomar decisiones”.
+          p.mb-0 Según Florencia (2013), en sus blogs expresa: “Gracias a la información se puede conceptuar, significar o encontrarle sentido a las cosas que rodean o acontecen en la sociedad, para luego de concebir el conocimiento debido, tomar decisiones”. 
         p Entonces, la información es necesaria y vital en muchos aspectos de la vida personal y profesional, y en los tiempos presentes se le atribuye a la misma una especial valoración en diversos contextos ya que sin duda alguna en la actualidad la humanidad está atravesando la era de la información.
 
     Separador 
@@ -77,17 +77,17 @@
               .col-lg-3.py-2.col-4
                 img(src='@/assets/curso/temas/tema1/1.png', alt='')
               
-            h2.text-center.titulo-morado.p-2 Fuentes de información primarias
+            h2.text-center.titulo-morado.p-2 Fuentes de información primaria
             .py-3
-                p Son todas aquellas personas, empresas, organizaciones, los acontecimientos que aquejan o benefician a la sociedad, el propio medio ambiente natural de las donde  se obtienen información directa, es decir, de donde se origina la información, también son conocidas como fuentes de primera mano o desde el lugar de los hechos.
+                p Desde el punto de vista metodológico, las empresas y organizaciones no constituyen fuentes primarias por sí mismas; adquieren esta condición cuando proporcionan información original o de primera mano mediante personas, registros, documentos internos u otros mecanismos de obtención directa de datos. 
           .col-md.tarjeta.bg-color-1.p-4
             .row.justify-content-center.align-items-center.p-4.mb-3
               .col-lg-3.py-2.col-4
                 img(src='@/assets/curso/temas/tema1/2.png', alt='')
               
-            h2.text-center.titulo-primario.p-2 Fuentes de información secundarias
+            h2.text-center.titulo-primario.p-2 Fuentes de información secundaria
             .py-3
-              p.text-white Son todas aquellas revistas, libros, los documentales, los noticieros, medios de información y los documentos escritos (todo medio impreso físico o digital) que ofrecen información sobre el tema por investigar, pero que no son la fuente original de los hechos o situaciones, sino que los referencian.
+              p.text-white Desde la metodología de la investigación, las fuentes secundarias corresponden a documentos o materiales que analizan, interpretan, sintetizan o compilan información previamente obtenida de fuentes primarias. La inclusión de "noticieros" y "medios de información" es válida en determinados contextos, pero resulta más preciso definirlas por la naturaleza de la información que proporcionan y no únicamente por el tipo de medio.
                 
 
 
@@ -147,8 +147,9 @@
         img.mb-5(src="@/assets/curso/temas/tema1/img03.png")
       .col-lg-8.col-12.col-md-12
         h4.subrayado.mb-4 Investigación cualitativa
-        p Según Sampieri (2006) “se fundamentan más en un proceso inductivo (explorar y describir, y luego generar perspectivas teóricas), van de lo particular a lo general en el análisis de fenómenos sociales” (p 8).
-        p Según  Báez (2009) en su definición agrega el componente comercial muy de moda en los presentes contextos ofreciendo el concepto de investigación cualitativa como “el conjunto de todas las cosas que se hacen para seguir la pista a los mercados y encontrar los rasgos que distinguen a las personas (cliente, consumidor, organización…) y a las cosas (productos, bienes, servicios, sectores de actividad) sus propiedades y atributos, sean estos naturales y/o adquiridos” (p.35).
+        p Según Sampieri (2006), "se fundamentan más en un proceso inductivo (explorar y describir, y luego generar perspectivas teóricas), van de lo particular a lo general en el análisis de fenómenos sociales" (p. 8). 
+
+        p Según Báez (2009), en su definición agrega el componente comercial muy de moda en los presentes contextos ofreciendo el concepto de investigación cualitativa como “el conjunto de todas las cosas que se hacen para seguir la pista a los mercados y encontrar los rasgos que distinguen a las personas (cliente, consumidor, organización…) y a las cosas (productos, bienes, servicios, sectores de actividad) sus propiedades y atributos, sean estos naturales y/o adquiridos” (p.35).
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-5
         h4 Ventajas y desventajas de la investigación cualitativa

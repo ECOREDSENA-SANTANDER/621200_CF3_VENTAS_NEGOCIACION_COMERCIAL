@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img01.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 Según Espinoza (2018), las variables son elementos que se ponen en dependencia a un referente teórico y según lo que se puede pronosticar en la población de estudio, por tanto, la variable es una propiedad que puede cambiar de valor en cada situación o de un individuo a otro y cuyo cambio o alteración es capaz de medirse en torno a una escala.
+            p.mb-0 Según Espinoza (2018), las variables son elementos que dependen de un referente teórico y de lo que se puede pronosticar en la población de estudio; por tanto, una variable es una propiedad que puede cambiar de valor en cada situación o de un individuo a otro, y cuyo cambio o alteración puede medirse en torno a una escala.
     
     Separador 
     #t_2_1.titulo-segundo.mb-4.color-secundario
@@ -41,13 +41,13 @@
         .row.p-2
           .col-md-12.mb-2.mb-md-0.p-4
             h4 Variables discretas
-            p Son aquellas cuyos valores corresponden a clases independientes, no admiten valores intermedios y por lo tanto en ellas no tiene sentido hablar de promedios estadísticos, un ejemplo clásico, es la respuesta a la pregunta cuántos hermanos tienen los 5 amigos de Javier Martínez, la respuesta a esta pregunta es 3, 2, 1, 0, 2; es preciso aclarar que no cabe en las respuesta un amigo de Javier Martínez que tenga 1.5 hermanos o alguna respuesta semejante.
+            p Son aquellas cuyos valores corresponden a clases independientes; no admiten valores intermedios y, por lo tanto, no tiene sentido hablar de promedios estadísticos. Un ejemplo clásico es la respuesta a la pregunta: ¿cuántos hermanos tienen los cinco amigos de Javier Martínez? La respuesta a esta pregunta puede ser 3, 2, 1, 0 o 2; es preciso aclarar que no cabe como respuesta que un amigo de Javier Martínez tenga 1,5 hermanos o alguna respuesta semejante. 
       
       .py-0.py-md-4(titulo="Variables continuas").bgfondo2
         .row.p-2
           .col-md-12.mb-2.mb-md-0.p-4
             h4 Variables continuas
-            p Son variables cuyos valores cambian en carácter progresivo y no a irrupciones o de otra condición, tienen una disposición que no puede alterarse y sobre ellas se pueden hacer análisis estadísticos descriptivos mediantes medidos de tendencia central (media, mediana y moda) y medidas de dispersión. Por ejemplo, la estatura de los jugadores de la selección Colombia de fútbol, la respuesta sería que el jugador A mide 1.80 m, el jugador B 1,82 m, el jugador C 1.79 m, el jugador D 1.85 m y el jugador E 1.78 m; sobre esa estatura es típico poder calcular medidas de tendencia central estadísticas, como el promedio de estatura que sería 1.80 m.
+            p Son variables cuyos valores cambian de manera progresiva y pueden tomar valores intermedios. Sobre ellas se pueden realizar análisis estadísticos descriptivos mediante medidas de tendencia central, como la media, la mediana y la moda, y medidas de dispersión. Por ejemplo, la estatura de los jugadores de la selección Colombia de fútbol podría registrarse así: el jugador A mide 1,80 m; el jugador B, 1,82 m; el jugador C, 1,79 m; el jugador D, 1,85 m, y el jugador E, 1,78 m. Con estos datos es posible calcular medidas de tendencia central, como el promedio de estatura, que sería 1,80 m. 
 
     .py-4
     .row.mb-5(data-aos="zoom-in-left")
@@ -66,7 +66,7 @@
       .py-0.py-md-5(titulo="Variables nominal").bgfondo2
         .row.p-2
           .col-md-12.mb-4.mb-md-0.p-4
-            h4 Variables nominal
+            h4 Variable nominal
             p Es un tipo de variable estadística de tipo cualitativo que expresa con nombre una cualidad no necesariamente ordenable, como puede ser por ejemplo los colores de ojos de un salón de clases.
 
 
@@ -74,7 +74,7 @@
     #t_2_2.titulo-segundo.mb-4.color-secundario
       h2 2.2 Clasificación de las variables
 
-    p.mb-5 Se pueden identificar 2 tipos de variables que participan en el manejo de la información de un proceso investigativo y pueden señalar relaciones comportamentales  al medir determinado número de sucesos:
+    p.mb-5 Se pueden identificar dos tipos de variables que participan en el manejo de la información de un proceso investigativo y pueden señalar relaciones comportamentales  al medir determinado número de sucesos:
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left").bgfondo3.p-4
       .col-lg-5.col-md-12.col-12.px-3
         .titulo-sexto.color-secundario

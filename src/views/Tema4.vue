@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img01.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 El análisis de datos es el proceso de examinar conjuntos de datos para encontrar tendencias y sacar conclusiones sobre la información que contienen; en la investigación cuantitativa apela a técnicas de cálculo de variables y  a la estadística como técnica específica en la ordenación y la exégesis de datos cuantitativos o cualitativos.
+            p.mb-0 El análisis de datos es el proceso de examinar conjuntos de datos para encontrar tendencias y obtener conclusiones sobre la información que contienen. En la investigación cuantitativa se apoya en técnicas estadísticas para la organización, el procesamiento y la interpretación de datos cuantitativos o cualitativos.
       
       Separador 
       #t_4_1.titulo-segundo.mb-4.color-secundario
@@ -58,26 +58,25 @@
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-8
-          p De acuerdo con el Blog Questionpro (2021): también se recurre a otros tipos de análisis entre los cuales está el análisis descriptivo, que como su nombre lo indica, consiste en describir las tendencias claves en los datos existentes y observar las situaciones que conduzcan a nuevos hechos, está basada en la estadística descriptiva que conlleva a las medidas de tendencia central (media, mediana y moda) esta información es cotejada con las medidas de dispersión (desviación estándar y error estándar) para su validación. 
+          p De acuerdo con el Blog Questionpro (2021): también se recurre a otros tipos de análisis entre los cuales está el análisis descriptivo, que como su nombre lo indica, consiste en describir las tendencias claves en los datos existentes y observar las situaciones que conduzcan a nuevos hechos, está basada en la estadística descriptiva que conlleva a las medidas de tendencia central (media, mediana y moda). Esta información es cotejada con las medidas de dispersión (desviación estándar y error estándar) para su validación. 
           .cajon.color-secundario.p-4.mb-4
-            p Por su parte, el análisis predictivo se conceptúa por parte del mismo blog Questionpro (2021) como una forma de análisis estadístico que se encomienda de conseguir información nueva o histórica y utilizarla para pronosticar patrones de conducta.
+            p Por su parte, el análisis predictivo se conceptúa por parte del mismo blog Questionpro (2021) como una forma de análisis estadístico que se encarga de obtener información nueva o histórica y utilizarla para pronosticar patrones de conducta.
           p Por último, está el análisis prescriptivo se encarga de encontrar una solución entre una gama de variantes con el objetivo de optimizar los recursos y aumentar la eficiencia operativa, es decir, ayuda a entender qué tenemos que hacer para obtener los resultados que queramos en el futuro.
         .col-lg-4.col-sm-6.col-8
           img(src='@/assets/curso/temas/tema4/img04.png', alt='')
 
         .py-4
-        .row.justify-content-center.mb-4(data-aos="zoom-in-left")
+        .row.justify-content-center.mb-0(data-aos="zoom-in-left")
           .col-lg-10.col-md-12.col-12.px-3
             .titulo-sexto.color-secundario
               h5 Figura 3. 
               | Análisis descriptivo, predictivo y prescriptivo
             img(src='@/assets/curso/temas/tema4/img05.svg', alt='La figura presenta tres iconos donde se lee respectivamente lo siguiente: Descriptiva(bombillo): describir y comprender lo que está pasando. <i>Big Data</i>. Predictiva(lupa): predecir lo que puede pasar. Pronostico y simulación. Prescriptiva(grafica de barras): Lo que se debe hacer en el futuro. Técnicas de optimización.')
-            figcaption Nota: Adaptada de David Higuita (2016)
       Separador 
       #t_4_3.titulo-segundo.mb-4.color-secundario
         h2 4.3 Técnicas de análisis de datos  
 
-      p Las técnicas de análisis de datos se definen como el proceso de explorar los datos metódicamente con el objetivo de destacar aquella información que sea más útil, con el auge y la aplicación de las tecnologías basadas en las industrias 4.0 los análisis de datos se hacen cada vez más precisos, disminuyendo la incertidumbre y el riesgo de errores.
+      p Las técnicas de análisis de datos son el conjunto de métodos y procedimientos utilizados para explorar los datos de manera metódica, con el objetivo de destacar la información más útil. Con el auge y la aplicación de las tecnologías propias de la Industria 4.0, los análisis de datos son cada vez más precisos, lo que disminuye la incertidumbre y el riesgo de errores.
 
       .bg-full-width.bg-color-1.mb-5
         .p-full-width

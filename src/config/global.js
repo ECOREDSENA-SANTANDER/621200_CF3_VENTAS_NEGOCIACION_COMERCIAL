@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Manejo de la información',
     Description:
-      'En este documento se comprenderá el manejo de la información y sus tipos de análisis, los cuales son necesarios para la toma de decisiones, dirigidos a minimizar la incertidumbre y el riesgo en el mercado. Igualmente se abordarán las variedades de presentación de la información de mercados, su procesamiento, desde su recolección, depuración, análisis y construcción de conocimiento de mercados.',
+      'En este documento se comprenderá el manejo de la información y sus tipos de análisis, los cuales son necesarios para la toma de decisiones, dirigidos a minimizar la incertidumbre y el riesgo en el mercado. Igualmente, se abordarán las variedades de presentación de la información de mercados, su procesamiento, desde su recolección, depuración, análisis y construcción de conocimiento de mercados.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
@@ -196,14 +196,10 @@ export default {
     {
       referencia:
         'Espinoza Freire, Eudaldo. (2018). Las variables y su operacionalización en la investigación educativa. Scielo. ',
-      link:
-        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1990-86442018000500039  ',
     },
     {
       referencia:
         'Fernández Jorge. (2016). Investigación Cualitativa Vs Investigación Cuantitativa. Investigación y docencia ',
-      link:
-        'https://www.investigacion360.com/2017/02/investigacion-cualitativa-vs-investigacion-cuantitativa.html  ',
     },
     {
       referencia: 'Florencia. (2013). Importancia de la información. ',
@@ -233,8 +229,6 @@ export default {
     },
     {
       referencia: 'Khan academy. (2018) Polígonos de frecuencia. ',
-      link:
-        'https://es.khanacademy.org/math/2-secundaria-pe/xf4e5558599a475b6:probabilidad-y-estadistica-2sec/xf4e5558599a475b6:preguntas-estadisticas-representacion-de-datos-a-traves-de-histogramas-y-poligonos-de-frecuencia/a/81817-artculo-polgonos-de-frecuencia  ',
     },
     {
       referencia:
@@ -251,8 +245,6 @@ export default {
     {
       referencia:
         'Lam Diaz Rosa. (2016).  La redacción de un artículo científico. ',
-      link:
-        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0864-02892016000100006  ',
     },
     {
       referencia:
@@ -302,8 +294,6 @@ export default {
     {
       referencia:
         'Temas de enfermería. (2012). La media aritmética en medidas de tendencia central. ',
-      link:
-        'https://temasdeenfermeria.com.ar/2012/06/la-media-aritmetica-en-medidas-de-tendencia-central/  ',
     },
     {
       referencia:
@@ -318,49 +308,79 @@ export default {
   ],
   glosario: [
     {
+      termino: 'Análisis de datos',
+      significado:
+        'Proceso mediante el cual se organizan, transforman e interpretan los datos recolectados con el propósito de obtener información útil para responder a los objetivos de una investigación y apoyar la toma de decisiones.',
+    },
+    {
       termino: 'Base de datos',
       significado:
-        'Las bases de datos son una herramienta fundamental en el entorno informático hoy en día y tienen aplicación en la práctica totalidad de campos como los negocios, organizaciones y en la vida personal. Su aplicabilidad responde a la necesidad de gestionar datos que provean información pertinente.  ',
+        'Conjunto organizado de datos almacenados de manera estructurada que permite su consulta, actualización y análisis para generar información pertinente en diferentes contextos.',
     },
     {
       termino: 'Conocimiento',
       significado:
-        'es la explicación e interpretación de la información producto de los procesos cognitivos de comparar, analizar, combinar o experimentar, permitiendo al sujeto la argumentación y la aplicación de la información. ',
+        'Comprensión e interpretación de la información obtenida mediante procesos cognitivos como comparar, analizar, relacionar y experimentar, permitiendo su aplicación para resolver problemas o tomar decisiones.',
     },
     {
       termino: 'Datos',
       significado:
-        'Son la diferenciación simbólica de una variable que puede ser clasificada como cualitativa o cuantitativa, indicando un valor representativo a dicha variable para su análisis, estudio y clasificación. ',
+        'Representaciones simbólicas de hechos, características o variables que constituyen la materia prima para generar información y conocimiento.',
     },
     {
       termino: 'Encuesta',
       significado:
-        'Las encuestas son un método de investigación y recopilación de datos utilizadas para obtener información a un grupo de individuos sobre diversos temas',
+        'Técnica de investigación que recopila información mediante un conjunto de preguntas aplicadas a una muestra de personas para conocer opiniones, características o comportamientos.',
     },
     {
       termino: 'Entrevista',
       significado:
-        'La entrevista es una charla en la que una persona hace a otra una serie de preguntas sobre un tema determinado.',
+        'Técnica de recolección de información basada en una conversación planificada entre un entrevistador y un entrevistado con el fin de obtener información sobre un tema específico.',
+    },
+    {
+      termino: 'Fuente de información',
+      significado:
+        'Recurso, persona, documento o medio del cual se obtiene información necesaria para desarrollar una investigación o responder una necesidad de conocimiento.',
+    },
+    {
+      termino: 'Hipótesis',
+      significado:
+        'Proposición o explicación provisional sobre la relación entre dos o más variables, que debe ser comprobada mediante el proceso de investigación.',
     },
     {
       termino: 'Información',
       significado:
-        'Es la denominación que se le da a la agrupación organizada de datos significativos que describen sucesos, eventos y hechos, con cuyo procesamiento se puede construir un mensaje descriptivo y/o analítico. ',
+        'Conjunto organizado y procesado de datos que adquiere significado y facilita la comprensión de hechos, fenómenos o situaciones para apoyar la toma de decisiones.',
     },
     {
       termino: 'Información cualitativa',
       significado:
-        'Es un método de estudio y análisis que se propone evaluar e interpretar información obtenida a través de recursos como entrevistas, conversaciones, memorias y registros documentales. ',
+        'Información descriptiva que permite comprender características, percepciones, opiniones o comportamientos, obtenida mediante técnicas como entrevistas, observaciones o grupos focales.',
     },
     {
       termino: 'Información cuantitativa',
       significado:
-        'Método estructurado de recopilación y análisis de información que se obtiene a través de diversas fuentes. Este proceso se lleva a cabo con el uso de herramientas estadísticas y matemáticas con el propósito de cuantificar el problema de investigación.  ',
+        'Información expresada en valores numéricos que puede analizarse mediante procedimientos estadísticos para medir, comparar e interpretar fenómenos.',
+    },
+    {
+      termino: 'Muestra',
+      significado:
+        'Subconjunto representativo de una población seleccionado para recopilar información y obtener conclusiones que puedan generalizarse al conjunto de estudio.',
     },
     {
       termino: 'Observación',
       significado:
-        'Es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis.',
+        'Técnica de recolección de información que consiste en examinar de forma sistemática un fenómeno, hecho o situación para registrar datos que posteriormente serán analizados.',
+    },
+    {
+      termino: 'Población',
+      significado:
+        'Conjunto total de personas, objetos, organizaciones o elementos que comparten características comunes y constituyen el objeto de estudio de una investigación.',
+    },
+    {
+      termino: 'Variable',
+      significado:
+        'Característica, propiedad o atributo de una persona, objeto o fenómeno que puede adoptar diferentes valores o categorías y ser objeto de medición o análisis dentro de una investigación.',
     },
   ],
   complementario: [

@@ -7,12 +7,12 @@
         span 5
       h1 Técnicas de evaluación
 
-    p Bernal (2000) describe las siguientes técnicas de evaluación de la información que pueden efectuarse:
+    p Bernal (2003) describe las siguientes técnicas de evaluación de la información que pueden efectuarse:
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-2")
       .row.justify-content-center(titulo="Análisis de Pareto")
         .col-md-12.mb-4.mb-md-0.p-4.col-sm-12.col-lg-7
-          p Es una técnica para analizar orígenes de problemas y las procedencias de sus causas, de igual forma, es una técnica que permite catalogar gráficamente la información de mayor a menor preeminencia, con el fundamento de identificar los problemas más trascendentales en los que se debe enfocar y solucionar, tiene como procedimiento generalizado:
+          p Es una técnica que permite identificar y priorizar los problemas o las causas más significativas mediante la representación gráfica de su frecuencia, con el fin de orientar las acciones de mejora hacia los aspectos de mayor impacto. 
           ul.lista-ul
             li.d-flex.mb-2
               i.fas.fa-check-circle
@@ -35,11 +35,11 @@
               | Análisis de Pareto
           figure
             img(src='@/assets/curso/temas/tema5/img01.svg', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos')
-            figcaption Nota. Adaptada de Jose Marcondes (2020)
+            figcaption Nota. Adaptado de Título de la obra, por José Marcondes, 2020.
 
       .row.justify-content-center.p-4(titulo="Diagrama de causa efecto")
         .col-md-12.mb-4.mb-md-0
-          p Bernal, (2003): (espina de pescado) es una gráfica mediante la cual los miembros de un equipo representan, categorizan y evalúan todos los posibles motivos de un resultado o reacción; por lo general, se expresa como un problema para resolver. Se le conoce como diagrama de Ishikaw. (p180).
+          p Bernal (2003, p. 180) señala que el diagrama de causa y efecto (espina de pescado) es una gráfica mediante la cual los miembros de un equipo representan, categorizan y evalúan todos los posibles motivos de un resultado o reacción; por lo general, se expresa como un problema para resolver. También se le conoce como diagrama de Ishikawa. 
         .col-md-10.blanco.p-4
           .titulo-sexto.color-secundario
               h5 Figura 8. 
@@ -50,7 +50,7 @@
       
       .row.justify-content-center(titulo="Gráficas de control")
         .col-lg-6.mb-4.mb-md-0.col-md-12
-          p Se recurren a ellas cuando existe la necesidad de control de calidad de procesos. Según Levin y Rubin (1996) “estas graficas reciben el nombre de diagramas de control y son de varios tipos :
+          p Según Levin y Rubin (1996), "estas gráficas reciben el nombre de diagramas de control y son de varios tipos" (p. 528): 
           ul.lista-ul
             li
               i.fas.fa-check-circle
@@ -71,7 +71,7 @@
        
       .row.justify-content-center.p-4(titulo="Distribución de frecuencias y representaciones gráficas")
         .col-md-12.mb-4.mb-md-0
-          p De acuerdo con Mason y Lind (1994) es el conjunto de datos en categorías que muestran el número de observaciones de cada categoría, en otras palabras, una distribución de frecuencias indica el número de veces que ocurre cada valor o dato en una tabla de resultados. (p.24).
+          p De acuerdo con Mason y Lind (1994), es el conjunto de datos en categorías que muestran el número de observaciones de cada categoría; en otras palabras, una distribución de frecuencias indica el número de veces que ocurre cada valor o dato en una tabla de resultados (p. 24).
         .col-lg-5.blanco.p-4.mx-4.col-md-9.mb-2
           p Histogramas son medios gráficos para la representación de la distribución de frecuencias.
           .titulo-sexto.color-secundario
@@ -104,8 +104,8 @@
               
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | La mediana es el valor que resulta una vez organizado la distribución de frecuencias de manera ascendente o descendente y se encuentre justo en la mitad de los datos.
-          p El concepto de simetría que se aprecia en la figura 12, no es más que la distancia en la cual se encuentran la moda y la mediana con respecto a la media aritmética, mientras más cerca se encuentren mayor confiabilidad tiene el análisis de la población, mientras más lejos se encuentre menor confiabilidad.
+              | La mediana es el valor que ocupa la posición central de un conjunto de datos ordenados de manera ascendente o descendente. 
+          p La simetría representa la relación entre la media, la mediana y la moda dentro de una distribución. Cuando estas medidas tienden a coincidir, la distribución es aproximadamente simétrica; cuando difieren, la distribución presenta asimetría hacia la izquierda o hacia la derecha. 
         
         .col-lg-5.blanco.p-4.col-md-9
           .titulo-sexto.color-secundario
@@ -141,21 +141,21 @@
           ul.lista-ul
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | Prueba t de #[em.px-1 student] es un medidor estadístico para poblaciones menores o iguales a 30.
+              p.mb-0 #[b Prueba t de #[em.px-1 student]] es un medidor estadístico para poblaciones menores o iguales a 30.
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | Prueba z es una prueba para distribuciones normales, que muestra la posibilidad que un data aparezca reflejado en la distribución de frecuencias.
+              p.mb-0 #[b La prueba z] se utiliza para realizar inferencias sobre poblaciones con distribución normal cuando se conoce la desviación estándar poblacional o el tamaño de la muestra es suficientemente grande. 
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | Análisis de varianza es una test estadístico para examinar si dos o más grupos de datos se diferencian entre sí, analizando  sus medidas de tendencia central y  sus varianzas.
+              p.mb-0 #[b Análisis de varianza] es una test estadístico para examinar si dos o más grupos de datos se diferencian entre sí, analizando  sus medidas de tendencia central y  sus varianzas.
 
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | Análisis de covarianza según Bernal (2006) es una prueba que se utiliza para analizar y determinar la relación entre una variable dependiente y dos o más variables independientes. (p 181).
+              p.mb-0 #[b Análisis de covarianza] según Bernal (2006, p. 181), el análisis de covarianza es una prueba que se utiliza para analizar y determinar la relación entre una variable dependiente y dos o más variables independientes. 
 
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | Chi cuadrado es una prueba estadística que permite demostrar si dos fracciones de población pueden considerarse iguales, es decir, si no presentan diferencias significativas.
-          p En la actualidad todos los ordenadores facilitan la verificación de todas estas pruebas estadísticas de la información, a través de Excel, o de programas especiales como stapgraphic o SSPS, entre otros validados por la comunidad científica.
+              p.mb-0 #[b Chi cuadrado] es una prueba estadística que permite demostrar si dos fracciones de población pueden considerarse iguales, es decir, si no presentan diferencias significativas.
+          p En la actualidad todos los ordenadores facilitan la verificación de todas estas pruebas estadísticas de la información, a través de Excel o de programas especializados como #[b Statgraphics] o #[b SPSS], entre otros, validados por la comunidad científica.
         
 </template>
