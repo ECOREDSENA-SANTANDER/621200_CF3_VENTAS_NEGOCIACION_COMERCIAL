@@ -22,7 +22,7 @@
           li
             i.fas.fa-check-circle
             | Identificar las técnicas de recolección de la información debidamente validadas.
-        p.mb-5 A continuación, se presenta una cadena de pasos que pueden emplearse para la recolección de datos necesarios para responder a los objetivos:≈
+        p.mb-5 A continuación, se presenta una cadena de pasos que pueden emplearse para la recolección de datos necesarios para responder a los objetivos:
 
     TabsC.color-acento-botones(data-aos="zoom-in-left")
       .py-3.py-md-5(titulo="Recolección de datos").bgfondo2

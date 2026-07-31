@@ -35,7 +35,7 @@
               | Análisis de Pareto
           figure
             img(src='@/assets/curso/temas/tema5/img01.svg', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos')
-            figcaption Nota. Adaptado de Título de la obra, por José Marcondes, 2020.
+            figcaption Nota. Adaptada de Título de la obra, por José Marcondes, 2020.
 
       .row.justify-content-center.p-4(titulo="Diagrama de causa efecto")
         .col-md-12.mb-4.mb-md-0
@@ -141,7 +141,7 @@
           ul.lista-ul
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              p.mb-0 #[b Prueba t de #[em.px-1 student]] es un medidor estadístico para poblaciones menores o iguales a 30.
+              p.mb-0 #[b Prueba t de #[em student]] es un medidor estadístico para poblaciones menores o iguales a 30.
             li.d-flex.mb-2
               i.fas.fa-check-circle
               p.mb-0 #[b La prueba z] se utiliza para realizar inferencias sobre poblaciones con distribución normal cuando se conoce la desviación estándar poblacional o el tamaño de la muestra es suficientemente grande. 

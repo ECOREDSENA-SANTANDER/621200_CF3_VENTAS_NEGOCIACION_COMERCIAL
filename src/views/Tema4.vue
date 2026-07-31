@@ -25,7 +25,7 @@
           img.mb-4(src='@/assets/curso/temas/tema4/img02.png', alt='')
         .col-lg-8
           .cajon.color-secundario.p-4.mb-4
-            p Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La página web de Quality Leadership University (QLE) indica que tradicionalmente en el análisis de antecedentes se verifica:
+            p Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La página web de Quality Leadership University (QLU) indica que tradicionalmente en el análisis de antecedentes se verifica:
           ul.lista-ul
             li.d-flex.mb-2
               i.fas.fa-check-circle
@@ -121,7 +121,7 @@
                   .row.justify-content-center(titulo="Aprendizaje  automático")
                     .col-md-11.mb-4.mb-md-0.col-lg-6
                       h4 Aprendizaje  automático
-                      p Es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el #[em Machine Learning] (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).
+                      p Es la parte de la Inteligencia Artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el #[i machine learning] (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la inteligencia artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).
                     .col-lg-5.col-sm-9.blanco.p-4
                       img(src='@/assets/curso/temas/tema4/img08.png', alt='')
                     

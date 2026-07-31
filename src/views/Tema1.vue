@@ -49,7 +49,7 @@
       .col-lg-8
         p.mb-4 Es importante estar debidamente informado sobre un propósito, porque no solamente permite desenrollar un punto de vista o postura respecto del mismo, sino también porque permite adelantarse  a un hecho o estar prevenidos sobre determinada situación.
         .cajon.color-secundario.p-4.mb-4
-          p.mb-0 Según Florencia (2013), en sus blogs expresa: “Gracias a la información se puede conceptuar, significar o encontrarle sentido a las cosas que rodean o acontecen en la sociedad, para luego de concebir el conocimiento debido, tomar decisiones”. 
+          p.mb-0 Según Florencia (2013), en sus #[i blogs] expresa: “Gracias a la información se puede conceptuar, significar o encontrarle sentido a las cosas que rodean o acontecen en la sociedad, para luego de concebir el conocimiento debido, tomar decisiones”. 
         p Entonces, la información es necesaria y vital en muchos aspectos de la vida personal y profesional, y en los tiempos presentes se le atribuye a la misma una especial valoración en diversos contextos ya que sin duda alguna en la actualidad la humanidad está atravesando la era de la información.
 
     Separador 
@@ -126,7 +126,7 @@
                   p #[b El análisis de documentos] se utiliza bajo los criterios de fichas bibliográficas que analizan material impreso o digital, su principal uso está en la elaboración del marco teórico del estudio.
                 
                 .tarjeta.fondo-morado.p-3(x="80%" y="37%" numero="+")
-                  p #[b La búsqueda web] o consulta de bases de datos, páginas web, blogs, en la red virtual se ha convertido en técnica de recolección de información por excelencia de toda la sociedad. 
+                  p #[b La búsqueda web] o consulta de bases de datos, páginas web, #[i blogs], en la red virtual se ha convertido en técnica de recolección de información por excelencia de toda la sociedad. 
 
 
       Separador 

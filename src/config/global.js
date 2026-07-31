@@ -169,29 +169,27 @@ export default {
   referencias: [
     {
       referencia:
-        'Bernal T cesar Augusto. (2003) Metodología de la investigación aplicada para administración y economía. Editorial Prentice Hill.',
+        'Bernal T César Augusto. (2003) Metodología de la investigación aplicada para administración y economía. Prentice Hill.',
       link: '',
     },
     {
       referencia:
         'Big Data Internacional Campus (2020). Data mining vs Big data. ',
-      link:
-        'https://www.campusbigdata.com/big-data-blog/item/82-data-mining-vs-big-data',
+      link: '',
     },
     {
       referencia: 'Conceptos. (2018). Minería de datos. ',
-      link: 'https://mineriadedatos1.blogspot.com/2018/10/conceptos.html ',
+      link: '',
     },
     {
       referencia:
-        'Conesa Caralt Jordi, Curto Diaz Josep. (2010). Introducción al Bussines Intelligence. Editorial UOC.',
+        'Conesa Caralt Jordi, Curto Diaz Josep. (2010). Introducción al Business Intelligence. UOC.',
       link: '',
     },
     {
       referencia:
         'Dertiano Victor. (2014). ¿Qué es Business Intelligence? Beneficios del BI.',
-      link:
-        'https://bigeek.medium.com/qu%C3%A9-es-business-intelligence-509d6a12fdf3',
+      link: '',
     },
     {
       referencia:
@@ -203,93 +201,84 @@ export default {
     },
     {
       referencia: 'Florencia. (2013). Importancia de la información. ',
-      link: 'https://www.importancia.org/informacion.php  ',
+      link: '',
     },
     {
       referencia: 'Grupo 10. (2015). Tipos de gráficas de control.',
-      link:
-        'http://grupo10direccion.blogspot.com/2015/06/tipos-de-graficas-de-control-1.html',
+      link: '',
     },
     {
       referencia:
         'Hernández Macario. (2008). El control estadístico del proceso. ',
-      link:
-        'https://optyestadistica.wordpress.com/2008/06/11/el-control-estadistico-de-proceso-3-de-3/  ',
+      link: '',
     },
     {
       referencia:
         'Hernández Noelia. (2019). Esto es lo que puede hacer la Inteligencia Artificial por la educación. Educación 3.0 ',
-      link:
-        'https://www.educaciontrespuntocero.com/tecnologia/poencial-ia-en-educacion/',
-    },
-    {
-      referencia:
-        'Hidalgo Nuchera Antonio, León Serrano Gonzalo, Pavon Morote Julián. (2013). la gestión de la innovación y la tecnología en las organizaciones. Editorial Pirámide.',
       link: '',
     },
     {
-      referencia: 'Khan academy. (2018) Polígonos de frecuencia. ',
+      referencia:
+        'Hidalgo Nuchera Antonio, León Serrano Gonzalo, Pavón Morote Julián. (2013). La gestión de la innovación y la tecnología en las organizaciones. Pirámide.',
+      link: '',
+    },
+    {
+      referencia: 'Khan Academy. (2018). Polígonos de frecuencia. ',
     },
     {
       referencia:
         'Higuita David. (2016). Analítica y productividad aplicada al ruteo de vehículos. ',
-      link:
-        'https://www.bancolombia.com/empresas/capital-inteligente/tendencias/innovacion/analitica-y-productividad',
+      link: '',
     },
     {
       referencia:
         'IBM. (2007). Análisis de causa raíz: el diagrama de espina de pescado. ',
-      link:
-        'https://managing-ils-reporting.itcilo.org/es/herramientas/root-cause-analysis-the-fishbone-diagramme/',
+      link: '',
     },
     {
       referencia:
-        'Lam Diaz Rosa. (2016).  La redacción de un artículo científico. ',
+        'Lam Díaz Rosa. (2016).  La redacción de un artículo científico. ',
     },
     {
       referencia:
         'Biblioguias: Gestión del Conocimiento (GDC): 1.3 Datos, Información y Conocimiento. (2017).  ',
-      link: 'https://biblioguias.cepal.org/c.php?g=738015&p=5789030',
+      link: '',
     },
     {
       referencia: 'Marta. (2019). ¿Qué es un Histograma?  Super prof ',
-      link:
-        'https://www.superprof.es/apuntes/escolar/matematicas/estadistica/descriptiva/histograma.html    ',
+      link: '',
     },
     {
       referencia:
-        'Lind Douglas A, Marchal William E, Wathen Samuel A. (2008). Estadística aplicada a los negocios y la economía. MC Graw Hill Interamericana.',
+        'Lind Douglas A, Marchal William E, Wathen Samuel A. (2008). Estadística aplicada a los negocios y la economía. McGraw-Hill Interamericana.',
       link: '',
     },
     {
       referencia: 'Marcondes José. (2020). Diagrama ou grafico de Pareto. ',
-      link:
-        'https://gestaodesegurancaprivada.com.br/diagrama-ou-grafico-de-pareto-conceito/    ',
-    },
-    {
-      referencia:
-        'Análisis de big data—ArcGIS Velocity | Documentación. (s. f.).',
-      link:
-        'https://doc.arcgis.com/es/velocity/analyze/perform-big-data-analysis.htm',
-    },
-    {
-      referencia:
-        'Quality Leadership University. (2020). Ejemplos de antecedentes de un anteproyecto ',
-      link: 'https://qlu.ac.pa/ejemplos-antecedentes-anteproyecto/  ',
-    },
-    {
-      referencia: 'Questionpro. (2021). ¿Qué es el análisis descriptivo? ',
-      link: ' https://www.questionpro.com/blog/es/analisis-descriptivo/   ',
-    },
-    {
-      referencia:
-        'Rodal Montero Enrique. (2020). Industrias 4.0. Editorial Pirámide.',
       link: '',
     },
     {
       referencia:
-        'SAS. (2021). minería de datos, ¿Qué es y porqué es importante?  ',
-      link: 'https://www.sas.com/es_co/insights/analytics/data-mining.html  ',
+        'Análisis de big data—ArcGIS Velocity | Documentación. (s. f.).',
+      link: '',
+    },
+    {
+      referencia:
+        'Quality Leadership University. (2020). Ejemplos de antecedentes de un anteproyecto ',
+      link: '',
+    },
+    {
+      referencia: 'Questionpro. (2021). ¿Qué es el análisis descriptivo? ',
+      link: '',
+    },
+    {
+      referencia: 'Rodal Montero Enrique. (2020). Industrias 4.0. Pirámide.',
+      link: '',
+    },
+    {
+      referencia:
+        'SAS. (2021). minería de datos, ¿Qué es y por qué es importante?  ',
+      link: '',
     },
     {
       referencia:
@@ -297,7 +286,7 @@ export default {
     },
     {
       referencia:
-        'Samperi Hernández Roberto. (2006). Metodología de la investigación. Editorial Mc Graw Hill',
+        'Sampieri Hernández Roberto. (2006). Metodología de la investigación. McGraw-Hill.',
       link: '',
     },
     {
@@ -383,51 +372,16 @@ export default {
         'Característica, propiedad o atributo de una persona, objeto o fenómeno que puede adoptar diferentes valores o categorías y ser objeto de medición o análisis dentro de una investigación.',
     },
   ],
-  complementario: [
-    {
-      tema: '1.1 La información',
-      referencia:
-        'Pérez, J. (2008) concepto de información. https://definicion.de/informacion/',
-      tipo: 'Página web',
-      link: 'https://definicion.de/informacion/ ',
-    },
-    {
-      tema: '3.	Variables de la información',
-      referencia:
-        'Parra, A. (2023, 7 agosto). Cuáles son los tipos de variables en una investigación. QuestionPro. https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
-      tipo: 'Página web',
-      link:
-        'https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
-    },
-    {
-      tema: '4.	Procesamiento de la información',
-      referencia:
-        'Espinoza Freire, E. E. (2018). Las variables y su operacionalización en la investigación educativa. Parte I.',
-      tipo: 'Página web',
-      link:
-        'http://scielo.sld.cu/scielo.php?pid=S1990-86442018000500039&script=sci_arttext&tlng=en',
-    },
-    {
-      tema: '5.	Análisis de datos',
-      referencia: 'Universidad del sur 2018), Análisis de datos',
-      tipo: 'Página web',
-      link: 'https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
-    },
-    {
-      tema: '6. Informes ',
-      referencia: 'Equipo editorial etece. (2021) Concepto, informes',
-      tipo: 'Página web',
-      link: 'https://concepto.de/informe/',
-    },
-  ],
+  complementario: [],
   creditos: [
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -461,7 +415,7 @@ export default {
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
         },
         {
-          nombre: 'Carolina Jiménez Suescún',
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
