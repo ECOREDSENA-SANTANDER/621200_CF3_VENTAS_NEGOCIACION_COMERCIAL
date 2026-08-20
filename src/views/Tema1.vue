@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-8.col-sm-6
-        img.mb-4(src='@/assets/curso/temas/tema1/img01.svg', alt='')
+        img.mb-4(src='@/assets/curso/temas/tema1/img01.svg')
       .col-lg-8
         p En el actual siglo XXI, una de sus principales características es la valía de la información para la toma de decisiones tanto empresariales, como ambientales y sociales; la sociedad vive en un mundo de permanente bombardeo de información en noticias de prensa, radio y televisión, pero con la masificación de la web y de las redes sociales, hoy en día el ser humano vive rodeado de información útil, pero también de información bastante inservible o inútil.    
         .cajon.color-secundario.p-4
@@ -26,7 +26,7 @@
         ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema1/img02.svg', alt='Infografía puntos calientes')
+              img(src='@/assets/curso/temas/tema1/img02.svg')
               figcaption Datos - información y conocimientos.
 
 
@@ -45,7 +45,7 @@
 
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-4.col-8.col-md-4
-        img.mb-2(src='@/assets/curso/temas/tema1/img02.png', alt='')
+        img.mb-2(src='@/assets/curso/temas/tema1/img02.png')
       .col-lg-8
         p.mb-4 Es importante estar debidamente informado sobre un propósito, porque no solamente permite desenrollar un punto de vista o postura respecto del mismo, sino también porque permite adelantarse  a un hecho o estar prevenidos sobre determinada situación.
         .cajon.color-secundario.p-4.mb-4
@@ -62,7 +62,7 @@
     
     .row.align-items-center.mb-5.titulo-icono
         .col-auto.titulo-icono-img
-          img(src='@/assets/curso/temas/bg/1.svg', alt='')
+          img(src='@/assets/curso/temas/bg/1.svg')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Fuentes de información primaria y secundaria    
     p.mb-4 Obtener información confiable y válida requiere cuidado y dedicación, pues de ello depende la confiabilidad y validez del estudio, estos datos o información que va a recolectarse en el medio, a través del cual se responden las preguntas de investigación y se logran los objetivos del estudio. Los datos deben ser pertinentes y suficientes para lo cual es necesario definir las fuentes y técnicas adecuadas para su recolección.
@@ -75,7 +75,7 @@
           .col-md.tarjeta.bg-color-5.p-4
             .row.justify-content-center.align-items-center.p-4
               .col-lg-3.py-2.col-4
-                img(src='@/assets/curso/temas/tema1/1.png', alt='')
+                img(src='@/assets/curso/temas/tema1/1.png')
               
             h2.text-center.titulo-morado.p-2 Fuentes de información primaria
             .py-3
@@ -83,7 +83,7 @@
           .col-md.tarjeta.bg-color-1.p-4
             .row.justify-content-center.align-items-center.p-4.mb-3
               .col-lg-3.py-2.col-4
-                img(src='@/assets/curso/temas/tema1/2.png', alt='')
+                img(src='@/assets/curso/temas/tema1/2.png')
               
             h2.text-center.titulo-primario.p-2 Fuentes de información secundaria
             .py-3
@@ -110,7 +110,7 @@
               ImagenInfografica.color-primario
                 template(v-slot:imagen)
                   figure
-                    img(src='@/assets/curso/temas/tema1/img03.svg', alt='Infografía puntos calientes')
+                    img(src='@/assets/curso/temas/tema1/img03.svg')
                     
                 .tarjeta.fondo-morado.p-3(x="19%" y="38%" numero="+")
                   p #[b La encuesta], según Bernal (2000), “una de las técnicas más reconocidas y utilizadas, a pesar de que ha perdido credibilidad por  el sesgo que hay en las personas encuestadas y por el uso cada vez más frecuente de TIC´S” (p.172). 
@@ -137,7 +137,7 @@
 
     .row.align-items-center.mb-5.titulo-icono
       .col-auto.titulo-icono-img
-        img(src='@/assets/curso/temas/bg/1.svg', alt='')
+        img(src='@/assets/curso/temas/bg/1.svg')
       .col
         h3.mb-0.titulo-icono-text.px-0.py-2 Análisis de la información
 
@@ -160,7 +160,7 @@
           .col-md.tarjeta.bg-color-5.p-4
             .row.justify-content-center.align-items-center.p-4
                 .col-lg-3.py-2.col-4
-                  img(src='@/assets/curso/temas/tema1/ventaja.svg', alt='')
+                  img(src='@/assets/curso/temas/tema1/ventaja.svg')
             h2.text-center.titulo-morado.p-2 Ventajas
             .py-2
               ul.lista-ul--color
@@ -177,7 +177,7 @@
           .col-md.tarjeta.bg-color-1.p-4
             .row.justify-content-center.align-items-center.p-4
                 .col-lg-3.py-2.col-4
-                  img(src='@/assets/curso/temas/tema1/desventaja.svg', alt='')
+                  img(src='@/assets/curso/temas/tema1/desventaja.svg')
             h2.text-center.titulo-primario.p-2 Desventajas
             .py-2
               ul.lista-ul--color
@@ -206,7 +206,7 @@
           .col-md.tarjeta.bg-color-5.p-4
             .row.justify-content-center.align-items-center.p-4
                 .col-lg-3.py-2.col-4
-                  img(src='@/assets/curso/temas/tema1/ventaja.svg', alt='')
+                  img(src='@/assets/curso/temas/tema1/ventaja.svg')
             h2.text-center.titulo-morado.p-2 Ventajas
             .py-2
               ul.lista-ul--color
@@ -223,7 +223,7 @@
           .col-md.tarjeta.bg-color-1.p-4
             .row.justify-content-center.align-items-center.p-4
                 .col-lg-3.py-2.col-4
-                  img(src='@/assets/curso/temas/tema1/desventaja.svg', alt='')
+                  img(src='@/assets/curso/temas/tema1/desventaja.svg')
             h2.text-center.titulo-primario.p-2 Desventajas
             .py-2
               ul.lista-ul--color

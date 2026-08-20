@@ -22,7 +22,7 @@
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-4.col-8.col-sm-6
-          img.mb-4(src='@/assets/curso/temas/tema4/img02.png', alt='')
+          img.mb-4(src='@/assets/curso/temas/tema4/img02.png')
         .col-lg-8
           .cajon.color-secundario.p-4.mb-4
             p Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La página web de Quality Leadership University (QLU) indica que tradicionalmente en el análisis de antecedentes se verifica:
@@ -63,7 +63,7 @@
             p Por su parte, el análisis predictivo se conceptúa por parte del mismo blog Questionpro (2021) como una forma de análisis estadístico que se encarga de obtener información nueva o histórica y utilizarla para pronosticar patrones de conducta.
           p Por último, está el análisis prescriptivo se encarga de encontrar una solución entre una gama de variantes con el objetivo de optimizar los recursos y aumentar la eficiencia operativa, es decir, ayuda a entender qué tenemos que hacer para obtener los resultados que queramos en el futuro.
         .col-lg-4.col-sm-6.col-8
-          img(src='@/assets/curso/temas/tema4/img04.png', alt='')
+          img(src='@/assets/curso/temas/tema4/img04.png')
 
         .py-4
         .row.justify-content-center.mb-0(data-aos="zoom-in-left")
@@ -123,7 +123,7 @@
                       h4 Aprendizaje  automático
                       p Es la parte de la Inteligencia Artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el #[i machine learning] (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la inteligencia artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).
                     .col-lg-5.col-sm-9.blanco.p-4
-                      img(src='@/assets/curso/temas/tema4/img08.png', alt='')
+                      img(src='@/assets/curso/temas/tema4/img08.png')
                     
                   
                   
@@ -143,7 +143,7 @@
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
         .col-lg-4.col-8.my-2.col-sm-6
-          img.mb-2(src='@/assets/curso/temas/tema4/img10.png', alt='')
+          img.mb-2(src='@/assets/curso/temas/tema4/img10.png')
         .col-lg-8
           p Para Big Data Internacional Campus (2020) #[em Data mining] es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El #[em data mining] reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
           .cajon.color-secundario.p-4.mb-4

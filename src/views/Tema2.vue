@@ -24,7 +24,7 @@
     
     .row.align-items-center.mb-5.titulo-icono
       .col-auto.titulo-icono-img
-        img(src='@/assets/curso/temas/bg/1.svg', alt='')
+        img(src='@/assets/curso/temas/bg/1.svg')
       .col
         h3.mb-0.titulo-icono-text.px-0.py-2 Tipos de variable
     

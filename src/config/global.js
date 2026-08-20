@@ -277,7 +277,7 @@ export default {
     },
     {
       referencia:
-        'SAS. (2021). minería de datos, ¿Qué es y por qué es importante?  ',
+        'SAS. (2021). Minería de datos, ¿Qué es y por qué es importante?  ',
       link: '',
     },
     {
@@ -450,7 +450,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

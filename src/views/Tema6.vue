@@ -14,7 +14,7 @@
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-4.col-8.col-md-6
-        img.mb-4(src='@/assets/curso/temas/tema6/img01.png', alt='')
+        img.mb-4(src='@/assets/curso/temas/tema6/img01.png')
       .col-lg-8
         p Es un escrito que tiene como finalidad anunciar y presentar el balance de una situación desde diferentes perspectivas; es decir, sobre aquello que se está investigando de manera exhaustiva. Entre las principales características que debe tener un informe se encuentran las siguientes: la primera es la claridad en el lenguaje para facilitar la comprensión por parte del lector; la segunda es la objetividad al reflejar hechos basados en información comprobable; y la tercera es una adecuada estructuración, con una organización mínima que incluya introducción, desarrollo y conclusiones. 
     
@@ -45,7 +45,7 @@
                 p.mb-0 #[b Informes de divulgación:] es un escrito generalmente breve, que puede explicar hechos, ideas, conceptos, descubrimientos vinculados al quehacer científico y tecnológico.
           .col-lg-4.col-8.my-2.col-md-6
             figure
-              img.mb-2(src='@/assets/curso/temas/tema6/img02.png', alt='')      
+              img.mb-2(src='@/assets/curso/temas/tema6/img02.png')      
           
       .py-3.py-md-5(titulo="Según la estructura").bgfondo2
         .row.justify-content-center.align-items-center.p-4(data-aos="zoom-in-left")
@@ -66,7 +66,7 @@
                 p.mb-0 #[b Informe analítico:]  es un tipo de informe o evaluación de un conjunto particular de circunstancias relacionadas con el efecto que producen, por lo tanto, determinan y desarrollan las causas de un hecho o fenómeno.
           .col-lg-4.col-8.my-2.col-md-6
             figure
-              img.mb-2(src='@/assets/curso/temas/tema6/img03.png', alt='')   
+              img.mb-2(src='@/assets/curso/temas/tema6/img03.png')   
 
 
 
