@@ -52,8 +52,7 @@
                 img.mb-2(src='@/assets/curso/temas/tema3/img02.png')
             .col-md-12.mb-4.mb-md-0.col-lg-6
               h4 Procesamiento de los datos
-              p Debe efectuarse mediante el uso de herramientas estadísticas apoyadas en 
-              p #[em software] reconocidos por la comunidad científica, que hoy fácilmente se encuentran en el mercado. Para realizar la actividad de procesar los datos se siguen unos pasos de los cuales Bernal (2003) postula lo siguiente:
+              p Debe efectuarse mediante el uso de herramientas estadísticas apoyadas en #[em software] reconocidos por la comunidad científica, que hoy fácilmente se encuentran en el mercado. Para realizar la actividad de procesar los datos se siguen unos pasos de los cuales Bernal (2003) postula lo siguiente:
               ul.lista-ul
                 li.d-flex.mb-2
                   i.fas.fa-check-circle

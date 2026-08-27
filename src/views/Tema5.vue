@@ -16,7 +16,7 @@
           ul.lista-ul
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              |Identifica el problema que deseas analizar, es prioritario identificar el problema que está afectando el hecho, evento, situación a investigar.
+              |Identificar el problema que se desea analizar, es prioritario identificar el problema que está afectando el hecho, evento, situación a investigar.
             li.d-flex.mb-2
               i.fas.fa-check-circle
               |Agrupar los datos que ayudan a evaluar el problema, identificando en las categorías o problemas (eje de las y) y la frecuencia de ocurrencia de esos problemas (eje de las x).
@@ -54,13 +54,15 @@
           ul.lista-ul
             li
               i.fas.fa-check-circle
-              | Diagramas o diagramas de control para medias de procesos.
+              | Diagramas de control para medias de procesos.
             li
               i.fas.fa-check-circle
-              | Diagramas R o diagramas de control para variabilidad en los procesos.
+              | Diagramas R de control para variabilidad en los procesos.
             li
               i.fas.fa-check-circle
-              | Diagramas o diagramas de control para atributos, (p 528).
+              | Diagramas de control para atributos.(p 528).
+
+
         .col-lg-5.blanco.p-4.col-md-9
           .titulo-sexto.color-secundario
               h5 Figura 9. 
@@ -121,7 +123,7 @@
           ul.lista-ul
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | La varianza  es la suma de las desviaciones de la media elevada al cuadrado, dividida  entre el número de observaciones menos uno, en otras maneras de explicar, es una medida de dispersión que significa la movilidad de una serie de datos en relación a su promedio o media aritmética.
+              | La varianza  es la suma de las desviaciones de la media elevada al cuadrado, dividida  entre el número de observaciones menos uno, en otras palabras, es una medida de dispersión que significa la movilidad de una serie de datos en relación a su promedio o media aritmética.
 
             li.d-flex.mb-2
               i.fas.fa-check-circle

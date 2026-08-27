@@ -44,7 +44,7 @@
               | Metodología utilizada. 
       
       Separador 
-      #t_4_1.titulo-segundo.mb-4.color-secundario
+      #t_4_2.titulo-segundo.mb-4.color-secundario
         h2 4.2 Tipos de análisis 
 
       p.mb-5 Son varios los tipos de análisis de datos que se pueden realizar dependiendo de la información que se dispone, a continuación se destacan los más importantes.
@@ -91,7 +91,7 @@
                       ul.lista-ul
                         li.d-flex.mb-2
                           i.fas.fa-check-circle
-                          | Filtrar todo el ruido caótico y repetitivo en sus datos. (datos que se repiten)
+                          | Filtrar todo el ruido caótico y repetitivo en sus datos. (datos que se repiten).
                         li.d-flex.mb-2
                           i.fas.fa-check-circle
                           | Entender qué es relevante y luego hacer un buen uso de esa información para evaluar resultados probables. (datos significativos).

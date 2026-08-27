@@ -31,7 +31,7 @@
         .row.justify-content-center.align-items-center.p-4
           .col-lg-6.mb-4.mb-md-0.col-md-12
             h4 Según el contenido
-            p Se pueden encontrar 3 grandes tipos de informes de acuerdo con la especificidad del contenido del informe
+            p Se pueden encontrar tres grandes tipos de informes de acuerdo con la especificidad del contenido del informe:
         
             ul.lista-ul
               li.d-flex.mb-2

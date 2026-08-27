@@ -60,7 +60,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Tipos de variables',
+            titulo: 'Tipos de variables en el análisis de datos',
             hash: 't_2_1',
           },
           {
@@ -430,7 +430,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Lizeth Karina Manchego Suarez',
+          nombre: 'Lizeth Karina Manchego Suárez',
           cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },

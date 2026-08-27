@@ -14,7 +14,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/rxzXUJ5Np8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: manejo de la información - introducción.
+      figcaption Video. Manejo de la información - introducción.
 
 
 </template>
