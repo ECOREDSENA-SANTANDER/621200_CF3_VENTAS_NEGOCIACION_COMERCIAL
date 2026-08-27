@@ -63,7 +63,7 @@
             h4 Variable ordinal
             p Es un tipo de variable estadística de tipo cualitativo que expresa con palabras una cualidad de naturaleza ordenable como por ejemplo primer puesto, segundo puesto, tercer puesto.
       
-      .py-0.py-md-5(titulo="Variables nominal").bgfondo2
+      .py-0.py-md-5(titulo="Variable nominal").bgfondo2
         .row.p-2
           .col-md-12.mb-4.mb-md-0.p-4
             h4 Variable nominal
