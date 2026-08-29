@@ -138,7 +138,7 @@
                       .titulo-sexto.color-secundario
                         h5 Figura 6.
                         | #[em Big Data] 
-                      img.mb-2(src='@/assets/curso/temas/tema4/img09.svg', alt='La figura presenta las palabras <i>BIG DATA</i> en el medio de un circulo, sobre el cual se mencionan: recolección de datos, limpieza de datos, analisis de datos e interpretación de datos.')
+                      img.mb-2(src='@/assets/curso/temas/tema4/img09.svg', alt='Diagrama circular sobre el proceso de Big Data que integra cuatro etapas: recolección de datos, limpieza de datos, análisis de datos e interpretación de datos.')
                       figcaption Nota. Adaptada de Raul Pulido (2018)
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
